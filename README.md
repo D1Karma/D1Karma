@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm4yN2FsMTExMXU4ano5Z3NqM3JvOWsybGx5YnQ0dWRjb2lhOGlvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Coding fun" />
+  <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm4yN2FsMTExMXU4ano5Z3NqM3JvOWsybGx5YnQ0dWRjb2lhOGlvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Coding fun" />
 </div>
 
 ---
